@@ -16,7 +16,7 @@ class Solution:
                     return True
         return False
     
-
+# 现根据value范围将数字分组存入hashmap，然后删除超出index范围的数字
 class Solution:
     def containsNearbyAlmostDuplicate(self, nums: list[int], indexDiff: int, valueDiff: int) -> bool:
         bucket={}
