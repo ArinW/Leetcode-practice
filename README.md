@@ -1,5 +1,13 @@
 # Leetcode-practice
 
+## 20250926
+- Hashmap/dictionary
+      - hash function
+      - hash/hash value
+      - linear probing
+
+- 
+
 ## 20250925
 Coding Skills:
 - num_hash = {} # create an empty hash map
